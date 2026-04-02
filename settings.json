@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "diddy",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "max19864.aternos.me",
